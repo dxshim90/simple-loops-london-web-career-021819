@@ -7,6 +7,7 @@ while counter <= number_of_times
 puts phrase
 counter += 1
 end
+end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
