@@ -47,4 +47,5 @@ def for_iterator(number_of_times)
   for phrase in 1..7
   puts phrase
 end
+end
 
